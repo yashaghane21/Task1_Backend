@@ -14,9 +14,9 @@ Welcome to the Task1 Backend repository! This repository contains the backend co
 
 
 2. Install dependencies:
-
- npm install
+ ```sh
+  npm install
 
 3. start the server
-
- npm run dev
+ ```sh
+  npm run dev
