@@ -3,8 +3,7 @@
 
 Welcome to the Task1 Backend repository! This repository contains the backend code for a project built using [Node.js](https://nodejs.org/) and [Express.js](https://expressjs.com/) to create a RESTful API.
 
-
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -14,10 +13,10 @@ Welcome to the Task1 Backend repository! This repository contains the backend co
 
 
 2. Install dependencies:
- ```sh
+
   npm install
 
 
 3.Start the server:
- ```sh
+ 
   npm run dev
