@@ -17,6 +17,7 @@ Welcome to the Task1 Backend repository! This repository contains the backend co
  ```sh
   npm install
 
-3. start the server
+
+3.Start the server:
  ```sh
   npm run dev
